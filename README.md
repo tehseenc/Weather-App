@@ -6,4 +6,4 @@ Weather App created with React Native using API calls, React Navigation, and Exp
 The App allows you to click into the future forecasts as well and view their details.
 
 ## Demo Video
-![Weather App screen recording](https://i.ibb.co/mCfPJsY/ezgif-2-65fa65af36-copy.gif)
+![Weather App screen recording](https://i.ibb.co/T8jz6yn/App-demo.gif)
