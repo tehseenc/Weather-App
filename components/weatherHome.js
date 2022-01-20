@@ -16,7 +16,7 @@ export default function WeatherHome() {
   const [weatherData, setWeatherData] = useState({});
   const [isLoaded, setIsLoaded] = useState(false);
 
-  const APIkey = "Requires Open Weather Api Key"; //weatherAPI key
+  const APIkey = "a0fc3536db9cf6e42ab5390b36db71ad"; //weatherAPI key
   const excludeData = "minutely,hourly,alerts"; //exclusion for specific types of weather data that we dont need
 
   const updateCityStateInChild = (newCity) => {
